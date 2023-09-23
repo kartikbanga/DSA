@@ -7,7 +7,7 @@ Whether you're preparing for coding interviews or simply honing your problem-sol
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/yourusername/your-dsa-practice.git
+   git clone https://github.com/kartikbanga/DSA.git
 
 ## Navigate to a Specific Category:
 
